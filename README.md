@@ -7,7 +7,4 @@
 - Successfully tested with 3 YouTube videos
 - Output: Full transcript printed in terminal
 - 
-### 📸 Sample Output
-
-![Transcript Screenshot](https://github.com/Md-Abu-Sadik/TubeDigest/transcript1.jpg?raw=true)
 
