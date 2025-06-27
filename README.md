@@ -7,4 +7,8 @@
 - Successfully tested with 3 YouTube videos
 - Output: Full transcript printed in terminal
 - 
+### 📸 Sample Output
+
+![Transcript Screenshot](<paste-your-copied-image-url-here>)
+
 
