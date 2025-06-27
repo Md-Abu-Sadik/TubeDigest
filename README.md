@@ -6,3 +6,7 @@
   - Fetch transcript using youtube_transcript_api
 - Successfully tested with 3 YouTube videos
 - Output: Full transcript printed in terminal
+- 
+### 📸 Sample Output
+
+![Transcript Screenshot](https://github.com/Md-Abu-Sadik/TubeDigest/blob/main/Screenshot/transcript 1.png?raw=true)
