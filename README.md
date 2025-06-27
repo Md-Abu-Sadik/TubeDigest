@@ -9,6 +9,6 @@
 - 
 ### 📸 Sample Output
 
-![Transcript Screenshot](<paste-your-copied-image-url-here>)
+![Transcript Screenshot](transcript 1.jpg)
 
 
