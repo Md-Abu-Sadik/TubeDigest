@@ -9,5 +9,5 @@
 - 
 ### 📸 Sample Output
 
-![Transcript Screenshot](https://github.com/Md-Abu-Sadik/TubeDigest/blob/main/transcript1.jpg?raw=true)
+![Transcript Screenshot](https://github.com/Md-Abu-Sadik/TubeDigest/transcript1.jpg?raw=true)
 
