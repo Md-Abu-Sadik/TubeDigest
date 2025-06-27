@@ -9,6 +9,6 @@
 - 
 ### 📸 Sample Output
 
-![Transcript Screenshot](transcript 1.jpg)
+![Transcript Screenshot]([transcript 1.jpg](https://github.com/Md-Abu-Sadik/TubeDigest/blob/main/transcript%201.jpg?raw=true))
 
 
