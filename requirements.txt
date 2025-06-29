@@ -1,2 +1,25 @@
-youtube-transcript-api
+youtube-transcript-api 
 streamlit
+
+
+✅ FRONTEND
+Framework/Tool: Streamlit
+Language: Python (uses Streamlit’s built-in frontend generator)
+Function:
+
+Takes user input (YouTube video link)
+
+Shows transcript and summary
+
+Displays errors if the video has no subtitles
+
+
+✅ BACKEND
+Language: Python
+APIs & Libraries:
+
+youtube_transcript_api → Fetches YouTube transcript
+
+transformers → Uses pre-trained models like T5/BART to summarize
+
+torch → Supports the transformer models
